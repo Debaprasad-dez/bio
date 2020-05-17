@@ -151,9 +151,7 @@ h1 {
 #prof {
   transform: translateY(100px);
 }
-img {
-  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
-}
+
 ul.transition {
   display: flex;
   position: absolute;
